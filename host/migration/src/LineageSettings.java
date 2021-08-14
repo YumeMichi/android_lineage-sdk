@@ -496,19 +496,6 @@ public final class LineageSettings {
          */
         public static final String STATUS_BAR_QUICK_QS_PULLDOWN = "status_bar_quick_qs_pulldown";
 
-        /** Whether to show the brightness slider in quick settings panel.
-         *
-         * @hide
-         */
-        public static final String QS_SHOW_BRIGHTNESS_SLIDER = "qs_show_brightness_slider";
-
-        /**
-         * Whether to control brightness from status bar
-         *
-         * @hide
-         */
-        public static final String STATUS_BAR_BRIGHTNESS_CONTROL = "status_bar_brightness_control";
-
         /**
          * Whether or not volume button music controls should be enabled to seek media tracks
          * @hide
@@ -685,8 +672,6 @@ public final class LineageSettings {
                 LineageSettings.System.LOCKSCREEN_ROTATION,
                 LineageSettings.System.SHOW_ALARM_ICON,
                 LineageSettings.System.STATUS_BAR_IME_SWITCHER,
-                LineageSettings.System.QS_SHOW_BRIGHTNESS_SLIDER,
-                LineageSettings.System.STATUS_BAR_BRIGHTNESS_CONTROL,
                 LineageSettings.System.VOLBTN_MUSIC_CONTROLS,
                 LineageSettings.System.SWAP_VOLUME_KEYS_ON_ROTATION,
                 LineageSettings.System.USE_EDGE_SERVICE_FOR_GESTURES,
@@ -785,12 +770,6 @@ public final class LineageSettings {
          * @hide
          */
         public static final String POWER_MENU_ACTIONS = "power_menu_actions";
-
-        /**
-         * Whether to show the brightness slider in quick settings panel.
-         * @hide
-         */
-        public static final String QS_SHOW_BRIGHTNESS_SLIDER = "qs_show_brightness_slider";
 
         /**
          * List of QS tile names
@@ -990,7 +969,6 @@ public final class LineageSettings {
                 LineageSettings.Secure.KEYBOARD_BRIGHTNESS,
                 LineageSettings.Secure.POWER_MENU_ACTIONS,
                 LineageSettings.Secure.STATS_COLLECTION,
-                LineageSettings.Secure.QS_SHOW_BRIGHTNESS_SLIDER,
                 LineageSettings.Secure.QS_TILES,
                 LineageSettings.Secure.QS_USE_MAIN_TILES,
                 LineageSettings.Secure.VOLUME_LINK_NOTIFICATION,

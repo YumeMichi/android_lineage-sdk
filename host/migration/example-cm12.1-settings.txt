@@ -62,7 +62,6 @@ Row: 58 name=volbtn_music_controls, type=s, value=1, type=s
 Row: 59 name=volume_keys_control_ring_stream, type=s, value=1, type=s
 Row: 60 name=stylus_icon_enabled, type=s, value=1, type=s
 Row: 60 name=swap_volume_keys_on_rotation, type=s, value=0, type=s
-Row: 61 name=status_bar_brightness_control, type=s, value=0, type=s
 Row: 62 name=status_bar_notif_count, type=s, value=1, type=s
 Row: 63 name=dev_force_show_navbar, type=s, value=0, type=s
 Row: 64 name=stats_collection, type=s, value=1, type=s
@@ -74,7 +73,6 @@ Row: 69 name=navigation_ring_targets_0, type=s, value=assist, type=s
 Row: 70 name=navigation_ring_targets_1, type=s, value=assist, type=s
 Row: 71 name=navigation_ring_targets_2, type=s, value=assist, type=s
 Row: 72 name=theme_prev_boot_api_level, type=s, value=22, type=s
-Row: 73 name=qs_show_brightness_slider, type=s, value=1, type=s
 Row: 74 name=recents_long_press_activity, type=s, value=torch, type=s
 Row: 75 name=lockscreen_target_actions, type=s, value=default|#Intent;actionandroid.intent.action.MAIN;categoryandroid.intent.category.LAUNCHER;componentcom.snapchat.android/.LandingPageActivity;end, type=s
 Row: 76 name=device_hostname, type=s, value=android-932989077997886b, type=s
