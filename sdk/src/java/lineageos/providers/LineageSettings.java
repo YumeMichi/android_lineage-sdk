@@ -2083,7 +2083,7 @@ public final class LineageSettings {
                 sBooleanValidator;
 
         /**
-         * Whether auto brightness is applied one shot when screen is turned on
+         * Wether auto brightness is applied one shot when screen is turned on
          */
         public static final String AUTO_BRIGHTNESS_ONE_SHOT = "auto_brightness_one_shot";
 
